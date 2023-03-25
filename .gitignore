@@ -20,6 +20,7 @@ parts/
 sdist/
 var/
 wheels/
+autoclicker/message_sender.py
 pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
